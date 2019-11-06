@@ -1,2 +1,2 @@
 # digit-recognition
-Digit Recognition dataset from scikit learn and Kaggle using different machine learning classifiers.
+Digit recognition datasets from scikit learn and Kaggle using different machine learning classifiers.
